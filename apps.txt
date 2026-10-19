@@ -3,3 +3,8 @@ com.obsproject.Studio
 org.videolan.VLC
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.kde.kdenlive
+org.ardour.Ardour
+org.inkscape.Inkscape

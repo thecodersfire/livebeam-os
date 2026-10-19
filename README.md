@@ -24,3 +24,9 @@ The `livebeam.svg` wallpaper is original. Livebeam OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for live streaming.
 
+
+The installer also includes three purpose-specific applications: **Heroic Games Launcher, Lutris, Bottles**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Kdenlive, Ardour, Inkscape**. See [FEATURES.md](FEATURES.md).
