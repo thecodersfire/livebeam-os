@@ -4,7 +4,19 @@ org.videolan.VLC
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.kde.kdenlive
 org.ardour.Ardour
 org.inkscape.Inkscape
+
+# Ten additional preinstalled purpose-specific applications
+org.blender.Blender
+org.audacityteam.Audacity
+org.gimp.GIMP
+org.scribus.Scribus
+org.gnome.SoundRecorder
+org.gnome.Boxes
+org.gnome.TextEditor
+org.gnome.Calculator
+org.gnome.baobab
+org.gnome.Logs

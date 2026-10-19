@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for live streaming:
 3. **Inkscape** — org.inkscape.Inkscape
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for live streaming:
+
+1. **Blender** — create 3D assets and animations (org.blender.Blender)
+2. **Audacity** — edit audio recordings (org.audacityteam.Audacity)
+3. **GIMP** — edit raster graphics and textures (org.gimp.GIMP)
+4. **Scribus** — lay out print-ready publications (org.scribus.Scribus)
+5. **GNOME Sound Recorder** — capture voice and field notes (org.gnome.SoundRecorder)
+6. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+7. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+8. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+9. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
+10. **GNOME Logs** — inspect logs during troubleshooting (org.gnome.Logs)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
